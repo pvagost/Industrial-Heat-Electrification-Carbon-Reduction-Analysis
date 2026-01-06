@@ -1,0 +1,15 @@
+Year,Coal ($/short ton),Diesel ($/gallon),LPG/Propane ($/gallon),Natural Gas ($/thousand cu ft),Source
+2010,39.00,2.88,2.36,6.19,https://www.eia.gov/outlooks/aeo/workinggroup/oil-naturalgas/pdf/preliminary_natgasoutlook_presentation_10042012.pdf (For natural gas)
+2011,42.00,3.84,3.01,6.31,"https://afdc.energy.gov/data/10326 (have natural gas, propane(LPG) and diesel)"
+2012,39.00,4.02,2.47,5.49,https://afdc.energy.gov/data/10326
+2013,37.00,3.92,2.57,4.33,https://afdc.energy.gov/data/10326
+2014,38.00,3.84,2.42,4.37,https://www.eia.gov/outlooks/aeo/workinggroup/coal/pdf/presentation080212.pdf
+2015,39.00,2.71,1.98,3.77,
+,,,,,
+Year,Avg Cost per kWh (USD),Source,,,
+2010,0.65,"https://www.eia.gov/electricity/data/browser/#/topic/7?geo=g&agg=0,1&endsec=vg",,,
+2011,0.66,"https://www.eia.gov/electricity/data/browser/#/topic/7?geo=g&agg=0,1&endsec=vg",,,
+2012,0.64,"https://www.eia.gov/electricity/data/browser/#/topic/7?geo=g&agg=0,1&endsec=vg",,,
+2013,0.66,"https://www.eia.gov/electricity/data/browser/#/topic/7?geo=g&agg=0,1&endsec=vg",,,
+2014,0.71,"https://www.eia.gov/electricity/data/browser/#/topic/7?geo=g&agg=0,1&endsec=vg",,,
+2015,0.68,"https://www.eia.gov/electricity/data/browser/#/topic/7?geo=g&agg=0,1&endsec=vg",,,
